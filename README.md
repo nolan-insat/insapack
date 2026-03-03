@@ -13,7 +13,7 @@ The code (`+insapack` folder)  provided in this GitHub page is given for open ed
 
 ## A simple MATLAB code example
 
-Here is a simple code that describes how to deploy the LF. Code below is `demo_main.m`.
+Here is a simple code that describes how to deploy the INSAPACK. Code below is `demo_main.m`.
 
 ## Feedbacks
 
