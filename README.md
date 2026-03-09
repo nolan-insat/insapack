@@ -25,4 +25,6 @@ Please send any comment to C. Poussot-Vassal (charles.poussot-vassal@onera.fr) i
 
 ## Disclaimer
 
-Once again, this deposit consitutes a research code that accompany the paper mentionned above. It is not aimed to be included in any third party software without the consent of the authors. Authors decline responsabilities in case of problem when applying the code.
+This deposit consitutes a research code that accompany the paper mentionned above. It is not aimed to be included in any third party software without the consent of the authors. Authors decline responsabilities in case of problem when applying the code.
+
+Notice also that pathological cases may appear. A more advanced and professional code, to deal with practical and theoretical issues/limitations is currently under development by the authors.
