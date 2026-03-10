@@ -237,7 +237,7 @@ N           = length(yv);
 En4sid_td   = 1/N*sum(abs(yv-yn4sid_td)/max(abs(yv)));
 En4sid_fd   = 1/N*sum(abs(yv-yn4sid_fd)/max(abs(yv)));
 Eloe        = 1/N*sum(abs(yv-yloe)/max(abs(yv)));
-sgtitle(sprintf('TD errors: $%0.2f$ (N2SID-TD) /  $%0.2f$ (N2SID-FD) / $%0.2f$ (LF)',En4sid_td,En4sid_fd,Eloe),'interpreter','latex','FontSize',20) 
+sgtitle(sprintf('TD errors: $%0.2f$ (N4SID-TD) /  $%0.2f$ (N4SID-FD) / $%0.2f$ (LF)',En4sid_td,En4sid_fd,Eloe),'interpreter','latex','FontSize',20) 
 
 % %%
 % figure, 
